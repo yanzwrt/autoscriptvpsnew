@@ -19,13 +19,13 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnewnew/master/ssh"
+akbarvpn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/ssh"
 # Link Hosting Kalian Untuk Sstp
-akbarvpnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnewnew/master/sstp"
+akbarvpnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/sstp"
 # Link Hosting Kalian Untuk Ssr
-akbarvpnnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnewnew/master/ssr"
+akbarvpnnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-akbarvpnnnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnewnew/master/shadowsocks"
+akbarvpnnnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
 akbarvpnnnnn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/wireguard"
 # Link Hosting Kalian Untuk Xray
