@@ -17,7 +17,7 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/yanzwrt/autoscriptvps/master/websocket"
+akbarvpn="raw.githubusercontent.com/yanzwrt/autoscriptvpsnew/master/websocket"
 
 # Getting Proxy Template
 wget -q -O /usr/local/bin/ws-nontls https://${akbarvpn}/websocket.py
